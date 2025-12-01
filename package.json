@@ -1,0 +1,30 @@
+{
+    "name": "react",
+    "version": "1.0.0",
+    "description": "react handson session",
+    "keywords": [],
+    "homepage": "https://github.com/chandu5353/React#readme",
+    "bugs": {
+        "url": "https://github.com/chandu5353/React/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/chandu5353/React.git"
+    },
+    "license": "ISC",
+    "author": "Chandu",
+    "type": "commonjs",
+    "scripts": {
+        "test": "jest"
+    },
+    "devDependencies": {
+        "parcel": "^2.16.1"
+    },
+    "dependencies": {
+        "react": "^19.2.0",
+        "react-dom": "^19.2.0"
+    },
+    "browserlist": [
+        "last 2 versions"
+    ]
+}
